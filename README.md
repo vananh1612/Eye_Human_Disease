@@ -10,6 +10,7 @@ Tại sao OCT quan trọng?
 OCT là một công cụ không xâm lấn thiết yếu trong nhãn khoa, giúp phát hiện những bất thường ở võng mạc. Trên nền tảng này, chúng tôi hướng đến việc đơn giản hóa quá trình phân tích và diễn giải ảnh OCT, giảm tải công việc cho bác sĩ và nâng cao độ chính xác trong chẩn đoán thông qua các mô hình phân tích tự động tiên tiến.
 
 Tính năng nổi bật của nền tảng
+
 ➊ Phân tích hình ảnh tự động
 Ứng dụng các mô hình học máy hiện đại để phân loại ảnh OCT thành các nhóm: Bình thường, CNV, DME và Drusen.
 
