@@ -21,6 +21,7 @@ Hỗ trợ bác sĩ đưa ra quyết định lâm sàng chính xác thông qua �
 Tải lên, phân tích và xem kết quả ảnh OCT chỉ trong vài bước đơn giản.
 
 Hiểu về các bệnh lý võng mạc thông qua ảnh OCT
+
 ➊ Tân mạch hắc mạc (CNV)
 Màng tân mạch kèm theo dịch dưới võng mạc.
 
